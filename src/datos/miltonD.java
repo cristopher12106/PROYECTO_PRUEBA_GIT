@@ -11,6 +11,17 @@ package datos;
 public class miltonD {
     
      String nombre;
+     
+     
+     public boolean miHijitoEstaEstudiando(){
+         return true;
+         
+     }
+     
+     public String hoyNoSeDuerme(){
+         String siSeDuerme = null;
+         return siSeDuerme;
+     }
     
  
     
