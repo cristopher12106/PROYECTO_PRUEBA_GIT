@@ -11,6 +11,17 @@ package datos;
 public class miltonD {
     
      String nombre;
+     
+     public boolean miHijitoEstaEstudiando(){
+         return true;
+         
+     }
+     
+     public String hoyNoSeDuerme(){
+         String siSeDuerme = null;
+         return siSeDuerme;
+     }
+    
     public void jalar(){
         String c= "Milton usa su tecnica maldita JALAR, hace que todos los alumnos reprueben su curso, la unica tecnica maldita"
                 + " que lo puede contrarestar es";
